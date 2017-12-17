@@ -1,0 +1,26 @@
+.slideshow{
+    height: 350px;
+    width: 550px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.dots{
+    height: 30px;
+    width: 550px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.dots ul{
+    position: relative;
+    left: 42%;
+}
+
+.dots ul li{
+    margin-right: 15px;  
+    float: left; 
+    font-size: 16pt;
+    text-align: center;
+}
